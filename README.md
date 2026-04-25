@@ -1,58 +1,55 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# SmartRide AI
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Daily Project 7
 
-## About Laravel
+**Mata Tugas:** Daily Project 7  
+**Periode:** 20–25 April  
+**Dosen/Pengampu:** WAHYU ANDHYKA KUSUMA  
+**Jenis Produk:** Web Application  
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Deskripsi Project
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+SmartRide AI adalah aplikasi web yang dibuat sebagai implementasi dari rancangan sistem pada Daily Project 6. Aplikasi ini dikembangkan untuk mendukung sistem transportasi cerdas dengan tujuan membantu pengguna dalam mengakses layanan transportasi secara lebih mudah, cepat, dan terstruktur melalui platform berbasis web.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Link Project
 
-## Learning Laravel
+| Keterangan | Link |
+|---|---|
+| Source Code GitHub | https://github.com/Farelle009/smartride-ai |
+| Publish Web | Masukkan link publish web di sini |
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Fitur Utama
 
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Halaman utama aplikasi
+- Tampilan antarmuka berbasis web
+- Sistem navigasi halaman
+- Pengelolaan data sesuai kebutuhan sistem
+- Struktur project yang dapat dikembangkan lebih lanjut
+- Dukungan pengembangan fitur berbasis AI
 
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+## Teknologi yang Digunakan
 
-## Agentic Development
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- XAMPP
+- Git
+- GitHub
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+## Pengujian Aplikasi
 
-```bash
-composer require laravel/boost --dev
+Pengujian aplikasi dilakukan berdasarkan aspek kualitas yang telah ditentukan pada desain Daily Project 6. Pengujian ini bertujuan memastikan sistem SmartRide AI dapat berjalan sesuai kebutuhan pengguna.
 
-php artisan boost:install
-```
+| No | Aspek Kualitas | Tujuan Pengujian | Skenario Pengujian | Hasil yang Diharapkan | Hasil Pengujian | Status |
+|---|---|---|---|---|---|---|
+| 1 | Functionality | Memastikan fitur utama berjalan sesuai kebutuhan | Pengguna membuka halaman utama aplikasi | Halaman utama tampil tanpa error | Halaman utama berhasil ditampilkan | Berhasil |
+| 2 | Functionality | Memastikan navigasi halaman berjalan | Pengguna menekan menu atau tombol navigasi | Sistem berpindah ke halaman yang sesuai | Navigasi berhasil berjalan | Berhasil |
+| 3 | Usability | Memastikan aplikasi mudah digunakan | Pengguna mencoba memahami tampilan dan menu aplikasi | Tampilan mudah dipahami dan menu mudah digunakan | Pengguna dapat menggunakan aplikasi dengan mudah | Berhasil |
+| 4 | Reliability | Memastikan aplikasi tetap berjalan stabil | Pengguna membuka beberapa halaman secara berulang | Sistem tidak error atau crash | Sistem berjalan normal | Berhasil |
+| 5 | Performance | Memastikan aplikasi dapat dimuat dengan cepat | Pengguna membuka aplikasi melalui browser | Halaman berhasil dimuat dalam waktu wajar | Aplikasi dapat dimuat dengan baik | Berhasil |
+| 6 | Compatibility | Memastikan aplikasi dapat berjalan di browser umum | Aplikasi dibuka melalui Google Chrome atau browser lain | Tampilan dan fitur tetap berjalan baik | Aplikasi dapat diakses melalui browser | Berhasil |
+| 7 | Maintainability | Memastikan struktur kode mudah dikembangkan | Developer mengecek struktur folder dan file project | Struktur kode mudah dipahami | Struktur project cukup rapi dan dapat dikembangkan | Berhasil |
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Project ini dibuat untuk keperluan pembelajaran dan pemenuhan tugas Daily Project 7.
