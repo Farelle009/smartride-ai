@@ -2,8 +2,8 @@
 
 ## Daily Project 7
 
-**Mata Tugas:** Daily Project 7  
-**Periode:** 20–25 April  
+**NAMA:** FARELLE RODERICK PUTRA ERTANTO
+**NIM:** 202210370311256
 **Dosen/Pengampu:** WAHYU ANDHYKA KUSUMA  
 **Jenis Produk:** Web Application  
 
