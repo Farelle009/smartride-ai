@@ -3,9 +3,8 @@
 ## Daily Project 7
 
 **NAMA:** FARELLE RODERICK PUTRA ERTANTO
-**NIM:** 202210370311256
-**Dosen/Pengampu:** WAHYU ANDHYKA KUSUMA  
-**Jenis Produk:** Web Application  
+
+**NIM:** 202210370311256 
 
 ## Deskripsi Project
 
